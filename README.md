@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Anuroop, currently pursuing my undergraduate at IIT Guwahati - Mathematics and Computing.<br><br>Deepening my knowledge in Deep Learning<br>Exploring LLMs and Transformers for NLP applications.<br><br>Looking to collaborate on open-source AI/ML projects.
+Hello! I'm Anuroop, currently pursuing my 2nd year of undergraduate at IIT Guwahati - Mathematics and Computing.<br><br>Deepening my knowledge in Deep Learning<br>Exploring LLMs and Transformers for NLP applications.<br><br>Looking to collaborate on open-source AI/ML projects.
 
 
 ## 🌐 Socials:
