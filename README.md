@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Anuroop, currently pursuing my 2nd year of undergraduate at IIT Guwahati - Mathematics and Computing.<br>Ask me about Gaming, Drawing and Painting.<br>Deepening my knowledge in Deep Learning<br>Exploring LLMs and Transformers for NLP applications.<br>Looking to collaborate on open-source AI/ML projects.<br><br>Simple formula --> Success = (Talent + Hardwork) x Dedication.
+🔭 Hello! I'm Anuroop, currently pursuing my 2nd year of undergraduate at IIT Guwahati - Mathematics and Computing.<br>🌴 Ask me about Gaming, Drawing and Painting.<br>📖 Deepening my knowledge in Deep Learning<br>  Exploring LLMs and Transformers for NLP applications.<br>  Looking to collaborate on open-source AI/ML projects.<br><br>❤️ Simple formula --> Success = (Talent + Hardwork) x Dedication.
 
 
 ## 🌐 Socials:
